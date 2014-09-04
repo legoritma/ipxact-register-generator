@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spirit:registerFile xmlns:spirit="http://www.spiritconsortium.org/XMLSchema/SPIRIT/1685-2009">
+    <spirit:name>[% name %]</spirit:name>
+    <spirit:addressOffset>[% addressOffset %]</spirit:addressOffset>
+    <spirit:range>[% range %]</spirit:range>
+[% FOREACH register = registers -%]
+    <spirit:register>
+        <spirit:name>[% register.name %]</spirit:name>
+        [%- IF register.desc %]
+        <spirit:description>[% register.desc %]</spirit:description>
+        [%- END %]
+        <spirit:addressOffset>[% register.offset %]</spirit:addressOffset>
+        <spirit:size>[% register.size %]</spirit:size>
+        [%- IF register.access %]
+        <spirit:access>[% register.access %]</spirit:access>
+        [%- END %]
+        [%- IF register.reset %]
+        <spirit:reset>
+            <spirit:value>[% register.reset %]</spirit:value>
+        </spirit:reset>
+        [%- END %]
+[% FOREACH field = register.fields -%]
+        <spirit:field>
+            <spirit:name>[% field.name %]</spirit:name>
+            [%- IF field.desc %]
+            <spirit:description>[% field.desc %]</spirit:description>
+            [%- END %]
+            <spirit:bitOffset>[% field.offset %]</spirit:bitOffset>
+            <spirit:bitWidth>[% field.width %]</spirit:bitWidth>
+            [%- IF field.access %]
+            <spirit:access>[% field.access %]</spirit:access>
+            [%- END %]
+        </spirit:field>
+[% END -%]
+    </spirit:register>
+[% END -%]
+</spirit:registerFile>

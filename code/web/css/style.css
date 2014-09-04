@@ -1,0 +1,94 @@
+body{
+	margin: 0;
+	text-align: center;
+}
+.clickable {
+	cursor: pointer;
+}
+#top {
+	height: 80px;
+}
+#top > span {
+	margin: 0;
+	height: 100%;
+	display: inline-block;
+	float: left;
+	line-height: 80px;
+	text-align: center;
+}
+#selectFile {
+	background: #00a478;
+	width: 80%;
+	color: #00654a;
+}
+#selectFile img{
+	vertical-align: middle;
+	margin-right: 5px;
+}
+#uploadFile {
+	background: #f5a60d;
+	width: 20%;
+	color: #8d5e04;
+}
+#progressBar{
+	height: 5px;
+	clear: both;
+	width: 0%;
+	background: #00564a;
+}
+#status {
+	height: 50px;
+	padding: 0 20px;
+	line-height: 50px;
+	border: 5px solid #00a478;
+	border-radius: 30px;
+	color: #00a478;
+	text-align: center;
+	margin: 20px 0;
+	display: none;
+}
+#status img {
+	vertical-align: middle;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+#tree {
+	background: #f8f8f8;
+	border: 1px solid #e8e8e8;
+	border-radius: 20px;
+	width: 600px;
+	margin: 0 auto 20px;
+	padding: 30px;
+	text-align: left;
+	display: none;
+}
+#save {
+	float: right;
+	background: #fff;
+	border: 2px solid #00a478;
+	border-radius: 20px;
+	padding: 5px 10px;
+	cursor: pointer;
+}
+#treeView {
+	padding-left: 0;
+	margin: 0;
+}
+#treeView li {
+	list-style: none;
+	font-size: 18px;
+}
+#tFile, .tSub {
+	padding-left: 35px;
+	cursor: pointer;
+}
+#tFile {
+	background: url('../images/tree-file.png') no-repeat top left;
+}
+.tSub {
+	background: url('../images/tree-sub.png') no-repeat top left;
+}
+
+form {
+	display: none;
+}

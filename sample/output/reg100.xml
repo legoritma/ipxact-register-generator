@@ -1,0 +1,3705 @@
+<?xml version="1.0" encoding="UTF-8"?><spirit:registerFile xmlns:spirit="http://www.spiritconsortium.org/XMLSchema/SPIRIT/1685-2009">
+    <spirit:name>reg100</spirit:name>
+    <spirit:addressOffset>0</spirit:addressOffset>
+    <spirit:range>100</spirit:range>
+    <spirit:register>
+        <spirit:name>reg1</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>0</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg2</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>8</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg3</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>16</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg4</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>24</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg5</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>32</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg6</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>40</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg7</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>48</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg8</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>56</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg9</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>64</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg10</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>72</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg11</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>80</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg12</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>88</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg13</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>96</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg14</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>104</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg15</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>112</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg16</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>120</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg17</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>128</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg18</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>136</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg19</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>144</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg20</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>152</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg21</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>160</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg22</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>168</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg23</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>176</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg24</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>184</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg25</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>192</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg26</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>200</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg27</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>208</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg28</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>216</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg29</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>224</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg30</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>232</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg31</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>240</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg32</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>248</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg33</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>256</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg34</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>264</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg35</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>272</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg36</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>280</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg37</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>288</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg38</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>296</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg39</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>304</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg40</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>312</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg41</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>320</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg42</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>328</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg43</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>336</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg44</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>344</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg45</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>352</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg46</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>360</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg47</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>368</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg48</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>376</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg49</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>384</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg50</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>392</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg51</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>400</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg52</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>408</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg53</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>416</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg54</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>424</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg55</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>432</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg56</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>440</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg57</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>448</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg58</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>456</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg59</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>464</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg60</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>472</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg61</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>480</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg62</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>488</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg63</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>496</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg64</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>504</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg65</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>512</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg66</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>520</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg67</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>528</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg68</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>536</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg69</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>544</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg70</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>552</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg71</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>560</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg72</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>568</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg73</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>576</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg74</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>584</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg75</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>592</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg76</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>600</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg77</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>608</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg78</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>616</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg79</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>624</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg80</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>632</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg81</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>640</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg82</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>648</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg83</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>656</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg84</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>664</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg85</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>672</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg86</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>680</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg87</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>688</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg88</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>696</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg89</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>704</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg90</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>712</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg91</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>720</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg92</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>728</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg93</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>736</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg94</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>744</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg95</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>752</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg96</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>760</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg97</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>768</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg98</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>776</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>10</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg99</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>784</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>32</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>reg100</spirit:name>
+        <spirit:description>reg desc</spirit:description>
+        <spirit:addressOffset>792</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>243</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>field1</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field2</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>2</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field3</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>field4</spirit:name>
+            <spirit:description>field desc</spirit:description>
+            <spirit:bitOffset>6</spirit:bitOffset>
+            <spirit:bitWidth>2</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+</spirit:registerFile>

@@ -1,0 +1,16 @@
+/var/www/cse492/perl5/lib/perl5/IO/AtomicFile.pm
+/var/www/cse492/perl5/lib/perl5/IO/InnerFile.pm
+/var/www/cse492/perl5/lib/perl5/IO/Lines.pm
+/var/www/cse492/perl5/lib/perl5/IO/Scalar.pm
+/var/www/cse492/perl5/lib/perl5/IO/ScalarArray.pm
+/var/www/cse492/perl5/lib/perl5/IO/Stringy.pm
+/var/www/cse492/perl5/lib/perl5/IO/Wrap.pm
+/var/www/cse492/perl5/lib/perl5/IO/WrapTie.pm
+/var/www/cse492/perl5/man/man3/IO::AtomicFile.3pm
+/var/www/cse492/perl5/man/man3/IO::InnerFile.3pm
+/var/www/cse492/perl5/man/man3/IO::Lines.3pm
+/var/www/cse492/perl5/man/man3/IO::Scalar.3pm
+/var/www/cse492/perl5/man/man3/IO::ScalarArray.3pm
+/var/www/cse492/perl5/man/man3/IO::Stringy.3pm
+/var/www/cse492/perl5/man/man3/IO::Wrap.3pm
+/var/www/cse492/perl5/man/man3/IO::WrapTie.3pm

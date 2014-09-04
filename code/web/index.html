@@ -1,0 +1,41 @@
+<!doctype html>
+<html class="no-js">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>IPXact Register File Generator</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- <link rel="stylesheet" href="css/jquery.treeview.css"> -->
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+
+		<div id="top">
+			<span id="selectFile" class="clickable">
+				<img src="images/file.png">
+				<span>Choose File</span>
+			</span>
+			<span id="uploadFile" class="clickable">Upload</span>
+			<div id="progressBar"></div>
+		</div>
+		<div id="status">
+			<img src="">
+			<span></span>
+		</div>
+		<div id="tree">
+			<span id="save">Save</span>
+			<ul id="treeView"><li></li></ul>
+		</div>
+		<form method="post" enctype="multipart/form-data">
+			<input type="file" name="file" id="file" />
+			<input type="button" value="Upload" />
+		</form>
+
+		<script src="js/jquery-1.11.0.min.js"></script>
+		<script src="js/jquery.treeview.min.js"></script>
+		<script src="js/Blob.js"></script>
+		<script src="js/FileSaver.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>

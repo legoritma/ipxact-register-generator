@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><spirit:registerFile xmlns:spirit="http://www.spiritconsortium.org/XMLSchema/SPIRIT/1685-2009">
+    <spirit:name>Test_Core</spirit:name>
+    <spirit:addressOffset>0</spirit:addressOffset>
+    <spirit:range>4</spirit:range>
+    <spirit:register>
+        <spirit:name>EAR</spirit:name>
+        <spirit:addressOffset>32</spirit:addressOffset>
+        <spirit:size>32</spirit:size>
+        <spirit:field>
+            <spirit:name>EAR</spirit:name>
+            <spirit:description>Exception Address Register</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>32</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>ESR</spirit:name>
+        <spirit:description>Exception Status Register</spirit:description>
+        <spirit:addressOffset>64</spirit:addressOffset>
+        <spirit:size>32</spirit:size>
+        <spirit:field>
+            <spirit:name>Reserved</spirit:name>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>19</spirit:bitWidth>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>DS</spirit:name>
+            <spirit:description>Delay Slot Exception</spirit:description>
+            <spirit:bitOffset>19</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>ESS</spirit:name>
+            <spirit:description>Exception Specific Status</spirit:description>
+            <spirit:bitOffset>20</spirit:bitOffset>
+            <spirit:bitWidth>7</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>EC</spirit:name>
+            <spirit:description>Exception Cause</spirit:description>
+            <spirit:bitOffset>27</spirit:bitOffset>
+            <spirit:bitWidth>5</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>MSR</spirit:name>
+        <spirit:description>Machine Status Register</spirit:description>
+        <spirit:addressOffset>96</spirit:addressOffset>
+        <spirit:size>32</spirit:size>
+        <spirit:field>
+            <spirit:name>CC</spirit:name>
+            <spirit:description>Arithmetic Carry Copy</spirit:description>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>Reserved</spirit:name>
+            <spirit:bitOffset>1</spirit:bitOffset>
+            <spirit:bitWidth>16</spirit:bitWidth>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>VMS</spirit:name>
+            <spirit:description>Virtual Protected Mode Save</spirit:description>
+            <spirit:bitOffset>17</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>VM</spirit:name>
+            <spirit:description>Virtual Protected Mode</spirit:description>
+            <spirit:bitOffset>18</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>UMS</spirit:name>
+            <spirit:description>User Mode Save</spirit:description>
+            <spirit:bitOffset>19</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>UM</spirit:name>
+            <spirit:description>User Mode</spirit:description>
+            <spirit:bitOffset>20</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>PVR</spirit:name>
+            <spirit:description>Processor Version Register exists</spirit:description>
+            <spirit:bitOffset>21</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>EIP</spirit:name>
+            <spirit:description>Exception In Progress</spirit:description>
+            <spirit:bitOffset>22</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>EE</spirit:name>
+            <spirit:description>Exception Enable</spirit:description>
+            <spirit:bitOffset>23</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>DCE</spirit:name>
+            <spirit:description>Data Cache Enable</spirit:description>
+            <spirit:bitOffset>24</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>DZ</spirit:name>
+            <spirit:description>Division by Zero</spirit:description>
+            <spirit:bitOffset>25</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>ICE</spirit:name>
+            <spirit:description>Instruction Cache Enable</spirit:description>
+            <spirit:bitOffset>26</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>FSL</spirit:name>
+            <spirit:description>FSL Error</spirit:description>
+            <spirit:bitOffset>27</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>BIP</spirit:name>
+            <spirit:description>Break in Progress</spirit:description>
+            <spirit:bitOffset>28</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>CC</spirit:name>
+            <spirit:description>Arithmetic Carry</spirit:description>
+            <spirit:bitOffset>29</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>IE</spirit:name>
+            <spirit:description>Interrupt Enable</spirit:description>
+            <spirit:bitOffset>30</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>BE</spirit:name>
+            <spirit:description>Buslock Enable</spirit:description>
+            <spirit:bitOffset>31</spirit:bitOffset>
+            <spirit:bitWidth>1</spirit:bitWidth>
+            <spirit:access>read-write</spirit:access>
+        </spirit:field>
+    </spirit:register>
+    <spirit:register>
+        <spirit:name>HED</spirit:name>
+        <spirit:description>Test</spirit:description>
+        <spirit:addressOffset>128</spirit:addressOffset>
+        <spirit:size>8</spirit:size>
+        <spirit:reset>
+            <spirit:value>240</spirit:value>
+        </spirit:reset>
+        <spirit:field>
+            <spirit:name>HED_1</spirit:name>
+            <spirit:bitOffset>4</spirit:bitOffset>
+            <spirit:bitWidth>4</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+        <spirit:field>
+            <spirit:name>HED_2</spirit:name>
+            <spirit:bitOffset>0</spirit:bitOffset>
+            <spirit:bitWidth>4</spirit:bitWidth>
+            <spirit:access>read-only</spirit:access>
+        </spirit:field>
+    </spirit:register>
+</spirit:registerFile>

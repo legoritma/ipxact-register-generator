@@ -1,0 +1,6 @@
+<errors>
+	<error>register file name error</error>
+	<error>field name is not valid at 9</error>
+	<error>register name is not valid at 12</error>
+	<error>field reset is not valid at 21</error>
+</errors>
