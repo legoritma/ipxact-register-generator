@@ -4,13 +4,13 @@ use diagnostics;
 use Data::Dumper;
 use File::Basename;
 # include local module
-use FindBin qw($Bin);
-use lib "$Bin/perl5/lib/perl5";
-use lib "$Bin/perl5/lib/perl5/x86_64-linux-gnu-thread-multi";
+use FindBin qw( $Bin );
+use lib "$Bin";
+use lib "$Bin/local/lib/perl5/";
+use lib "$Bin/local/lib/perl5/x86_64-linux-gnu-thread-multi";
 use Getopt::Long;
 use Spreadsheet::Read;
 use Template;
-use lib "$Bin";
 use Register;
 
 # get arguments
